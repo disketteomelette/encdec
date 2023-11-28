@@ -10,15 +10,16 @@ Features:
 
 Encrypt a File:
 
-    python script.py -e -i input.txt -o encrypted.txt -p password123
+    python3 script.py -e -i input.txt -o encrypted.txt -p password123
 
 Decrypt a File:
 
-    python script.py -d -i encrypted.txt -o decrypted.txt -p password123
+    python3 script.py -d -i encrypted.txt -o decrypted.txt -p password123
 
 # Dependencies:
 
     cryptography library: Utilized for cryptographic operations such as key derivation and encryption.
+    Install: python3 -m pip install cryptography
 
 # How It Work
 
