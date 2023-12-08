@@ -27,7 +27,7 @@ The script generates a random salt and derives a secure key from the user-provid
 
 The code is fully commented for learning purposes.
 
-# Command-Line Option
+# Command-Line Options
 
     -e or --encrypt: Flag to indicate encryption operation.
     -d or --decrypt: Flag to indicate decryption operation.
