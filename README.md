@@ -19,6 +19,7 @@ Decrypt a File:
 # Dependencies:
 
 cryptography library: Utilized for cryptographic operations such as key derivation and encryption. To install it:
+
     python3 -m pip install cryptography
 
 # How It Works
